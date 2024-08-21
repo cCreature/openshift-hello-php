@@ -1,4 +1,4 @@
 <?php
 
-echo 'Witaj świecie!\n';
+echo 'Witaj świecie! <br>';
 echo 'Dzisiaj mamy: ' . date("d/m/Y"); 
